@@ -29,4 +29,7 @@ The following steps were carried out:
 - `powerproject.slx` – Simulink model of the converter  
 - `B1-G10 EE252 PROJECT REPORT.pdf` – Complete project report with schematics, waveform snapshots, and analysis
 
-The above mentioned report contains the video demonstration of the circuit and some images showing the hardware circuit and output waveforms for different conditions.
+The above mentioned report contains some images showing the hardware circuit and output waveforms for different conditions.
+
+The working demonstration of the project can be seen in this video --> https://drive.google.com/file/d/1_tINrTgpJDVMX9HJcwJSXJtF9e-tvJ4m/view
+The viewer will observe how the inductor current waveforms goes from CCM mode to DCM mode on increasing the load resistance through the rheostat.
